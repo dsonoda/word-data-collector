@@ -40,8 +40,8 @@ You will also need to register a credit card for some of the API subscriptions. 
     $ export WORDDATACOLLECTOR_SAVE_DIR=[/path/to/data save dir]
     ```
 
-    ```WORDDATACOLLECTOR_API_KEY```: specificeert de verkregen API-sleutel.  
-    ```WORDDATACOLLECTOR_API_KEY```: specificeert het pad naar de directory waar de gegevens worden opgeslagen wanneer het gereedschap wordt uitgevoerd.  
+    ```WORDDATACOLLECTOR_API_KEY```: Specify the obtained API key.  
+    ```WORDDATACOLLECTOR_API_KEY```: Specifies the path to the directory where data is saved when the tool is executed.   
 
 3. Let's run the [sample code](https://github.com/dsonoda/word-data-collector/blob/master/word-data-collector/examples.py).  
 
