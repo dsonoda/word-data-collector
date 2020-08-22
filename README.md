@@ -14,8 +14,8 @@ $ pipenv install
 ```
 
 # Usage
-1. The tool uses several of RapidAPI's APIs; to get a common API key that can be used within RapidAPI, you must first register for a RapidAPI account. After registering, go to the appropriate API page and you should see the common API key.  
-You will also need to register a credit card for some of the API subscriptions. The APIs you use by default have free quotas, so you won't be charged unless you run a huge number of APIs.  
+1. The tool uses several APIs of [RapidAPI](https://rapidapi.com/). To get the common API keys available within RapidAPI, you must first register for a RapidAPI account. After registering, you should be able to go to the appropriate API page and see the common API key.  
+Also, the API you use must be registered with a credit card and a subscription. The APIs you use by default have a free quota, so you won't be charged unless you run a huge number of APIs.  
 
     Create an account and register your credit card.  
     https://rapidapi.com/developer/billing/billing-information  
