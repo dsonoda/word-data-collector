@@ -53,6 +53,24 @@ You will also need to register a credit card for some of the API subscriptions. 
 
     Make sure the data file is downloaded to the designated storage directory.
 
+    ```
+    path/to/save directory
+        +/image
+            +/mountain
+                 +/6cb7b02f124563ed2caad342f52043ac.jpg
+                 +/a4facbd4d80a9b1c6bc0f9ce7ed87e78.jpg
+        +/translation
+            +/mountain
+                 +/translation.json
+        +/voice
+            +/mountain
+                 +/voice.mp3
+        +/word
+            +/mountain
+                 +/word.json
+    ```
+
+
 # Note
 Please note that you will be charged automatically if you exceed the free limit of the API.  
  
