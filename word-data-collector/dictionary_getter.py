@@ -71,7 +71,7 @@ class Translation(BaseGetter):
         return '/'.join([self.get_save_dir(), 'translation.json'])
 
     def save(self):
-        Word.make_dir(self.get_save_dir())
+        Translation.make_dir(self.get_save_dir())
         res = self.get_response()
         with open(self.get_save_file_path(), mode='wb') as f:
             f.write(res.text.encode())
