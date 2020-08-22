@@ -41,7 +41,7 @@ You will also need to register a credit card for some of the API subscriptions. 
     ```
 
     ```WORDDATACOLLECTOR_API_KEY```: Specify the obtained API key.  
-    ```WORDDATACOLLECTOR_API_KEY```: Specifies the path to the directory where data is saved when the tool is executed.   
+    ```WORDDATACOLLECTOR_SAVE_DIR```: Specifies the path to the directory where data is saved when the tool is executed.   
 
 3. Let's run the [sample code](https://github.com/dsonoda/word-data-collector/blob/master/word-data-collector/examples.py).  
 
