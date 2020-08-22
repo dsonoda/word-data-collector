@@ -7,7 +7,6 @@ verify_ssl = true
 
 [packages]
 requests = "*"
-httplib2 = "*"
 
 [requires]
 python_version = "3.8"
