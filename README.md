@@ -9,7 +9,7 @@ see: https://github.com/dsonoda/word-data-collector/blob/master/Pipfile
 
 ```bash
 $ git clone git@github.com:dsonoda/word-data-collector.git
-$ cd path/to/word-data-collector
+$ cd path/to/word_data_collector
 $ pipenv install
 ```
 
@@ -42,10 +42,10 @@ $ pipenv install
     ```WORDDATACOLLECTOR_API_KEY```: Specify the obtained API key.  
     ```WORDDATACOLLECTOR_SAVE_DIR```: Specifies the path to the directory where data is saved when the tool is executed.   
 
-3. Let's run the [sample code](https://github.com/dsonoda/word-data-collector/blob/master/word-data-collector/examples.py).  
+3. Let's run the [sample code](https://github.com/dsonoda/word-data-collector/blob/master/word_data_collector/examples.py).  
 
     ```bash
-    $ cd path/to/word-data-collector
+    $ cd path/to/word_data_collector
     $ pipenv shell
     (word-data-collector) bash-3.2$ python examples.py
     ```
