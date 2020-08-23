@@ -35,7 +35,7 @@ https://rapidapi.com/HiBrainy/api/text-to-speech5/pricing
 https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-image-search1/pricing  
 
 
-## 2. Set the following environment variables.  
+## 2. Set the environment variable.  
 
 ```bash
 $ export WORDDATACOLLECTOR_API_KEY=[rapid-api-key]
