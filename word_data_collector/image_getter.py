@@ -1,5 +1,5 @@
 import os, sys, hashlib, requests
-from _base import BaseGetter
+from base import BaseGetter
 
 
 class Image(BaseGetter):

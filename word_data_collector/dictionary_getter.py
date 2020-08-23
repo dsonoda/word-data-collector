@@ -1,4 +1,4 @@
-from _base import BaseGetter
+from base import BaseGetter
 
 
 class Word(BaseGetter):
