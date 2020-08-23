@@ -14,28 +14,28 @@ $ pipenv install
 ```
 
 # Usage
-## 1. Account and credit and subscription registration  
+### 1. Account and credit and subscription registration  
 This tool uses several APIs of [RapidAPI](https://rapidapi.com/). To get the common API keys available within RapidAPI, you must first register for a RapidAPI account. After registering, you should be able to go to the appropriate API page and see the common API key.  
   
 Also, the API you use must be registered with a credit card and a subscription. The APIs you use by default have a free quota, so you won't be charged unless you run a huge number of APIs.  
 
-### Create an account and register your credit card.  
+#### Create an account and register your credit card.  
 https://rapidapi.com/developer/billing/billing-information  
 
-### words api  
+#### words api  
 https://rapidapi.com/dpventures/api/wordsapi/pricing  
 
-### google translate api  
+#### google translate api  
 https://rapidapi.com/googlecloud/api/google-translate1/pricing  
 
-### HiBrainy text-to-speech api  
+#### HiBrainy text-to-speech api  
 https://rapidapi.com/HiBrainy/api/text-to-speech5/pricing  
 
-### bing image search api  
+#### bing image search api  
 https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-image-search1/pricing  
 
 
-## 2. Set the environment variable.  
+### 2. Set the environment variable.  
 
 ```bash
 $ export WORDDATACOLLECTOR_API_KEY=[rapid-api-key]
@@ -47,7 +47,7 @@ $ export WORDDATACOLLECTOR_SAVE_DIR=[/path/to/data save dir]
 |WORDDATACOLLECTOR_API_KEY|Specify the obtained API key.|
 |WORDDATACOLLECTOR_SAVE_DIR|Specifies the path to the directory where data is saved when the tool is executed.|
 
-## 3. Let's run the [sample code](https://github.com/dsonoda/word-data-collector/blob/master/word_data_collector/examples.py).  
+### 3. Let's run the [sample code](https://github.com/dsonoda/word-data-collector/blob/master/word_data_collector/examples.py).  
 
 ```bash
 $ cd path/to/word_data_collector
