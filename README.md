@@ -9,7 +9,6 @@ see: https://github.com/dsonoda/word-data-collector/blob/master/Pipfile
 
 ```bash
 $ git clone git@github.com:dsonoda/word-data-collector.git
-$ cd path/to/word_data_collector
 $ pipenv install
 ```
 
