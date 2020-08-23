@@ -58,19 +58,19 @@ Make sure the data file is downloaded to the designated storage directory.
 
 ```
 path/to/save_dir
-    +/image
-        +/mountain
-             +/6cb7b02f124563ed2caad342f52043ac.jpg
-             +/a4facbd4d80a9b1c6bc0f9ce7ed87e78.jpg
-    +/translation
-        +/mountain
-             +/translation.json
-    +/voice
-        +/mountain
-             +/voice.mp3
-    +/word
-        +/mountain
-            +/word.json
+    ├── image
+    │   └── mountain
+    │       ├── ea708ac3419ed8b77056c6f485b4a693.jpg
+    │       └── f096e023377fb5c0dea1d5bc776e1946.jpg
+    ├── translation
+    │   └── mountain
+    │       └── translation.json
+    ├── voice
+    │   └── mountain
+    │       └── voice.mp3
+    └── word
+        └── mountain
+            └── word.json
 ```
 
 # Note
