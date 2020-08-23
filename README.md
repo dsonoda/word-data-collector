@@ -83,4 +83,4 @@ Please note that you will be charged automatically if you exceed the free limit 
 * [@d5onoda](https://twitter.com/d5onoda)  
  
 # License
-"word-data-collector" is under [GPL-3.0 License](https://github.com/dsonoda/word-data-collector/blob/master/LICENSE).
+**word-data-collector** is under [GPL-3.0 License](https://github.com/dsonoda/word-data-collector/blob/master/LICENSE).
